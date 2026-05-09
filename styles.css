@@ -5,6 +5,7 @@ width: 300px;
 body {
 background-color: #0d1117;
 color: #00ff41;
+padding:10px;
 }
 
 a {
@@ -13,3 +14,5 @@ color: #0DFF00;
 .book {
 width: 150px;
 }
+
+
