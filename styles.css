@@ -15,4 +15,11 @@ color: #0DFF00;
 width: 150px;
 }
 
+label {
+display: block;
+}
 
+table {
+border: 2px solid #0DFF00;
+padding: 10px;
+}
