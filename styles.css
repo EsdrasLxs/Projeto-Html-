@@ -3,7 +3,7 @@ width: 300px;
 }
 
 body {
-background-color: #0d1117;
+background-color: #16161D;
 color: #00ff41;
 padding:10px;
 }
@@ -27,4 +27,36 @@ padding: 10px;
 #leituraatual {
 width: 40%;
 
+}
+
+#divhc {
+background-color: black;
+padding: 10px;
+margin: 2px;
+border:solid #00ff41 1px;
+border-radius: 10px;
+}
+
+#divl {
+background-color: black;
+padding: 10px;
+margin: 2px;
+border:solid #00ff41 1px;
+border-radius: 10px;
+}
+
+#divi {
+background-color: black;
+padding: 10px;
+margin: 2px;
+border:solid #00ff41 1px;
+border-radius: 10px;
+}
+
+#divv {
+background-color: black;
+padding: 10px;
+margin: 2px;
+border:solid #00ff41 1px;
+border-radius: 10px;
 }
