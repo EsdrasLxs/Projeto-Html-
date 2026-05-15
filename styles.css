@@ -1,6 +1,7 @@
-img {
+.cabe {
 width: 300px;
 }
+
 
 body {
 background-color: #16161D;
@@ -24,10 +25,7 @@ border: 2px solid #0DFF00;
 padding: 10px;
 }
 
-#leituraatual {
-width: 40%;
 
-}
 
 #divhc {
 background-color: black;
@@ -68,4 +66,13 @@ color: white;
 
 ul li::marker {
 content: "> ";
+}
+
+.imgvinho {
+width: 200px;
+}
+
+
+.anual {
+width: 150px;
 }
