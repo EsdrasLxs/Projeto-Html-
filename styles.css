@@ -60,3 +60,12 @@ margin: 2px;
 border:solid #00ff41 1px;
 border-radius: 10px;
 }
+
+a[target="_blank"]:visited {
+color: white;
+
+}
+
+ul li::marker {
+content: "> ";
+}
