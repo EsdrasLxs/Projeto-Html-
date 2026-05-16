@@ -27,36 +27,13 @@ padding: 10px;
 
 
 
-#divhc {
+#divhc, #divl, #divi, #divv {
 background-color: black;
 padding: 10px;
 margin: 2px;
 border:solid #00ff41 1px;
 border-radius: 10px;
-}
-
-#divl {
-background-color: black;
-padding: 10px;
-margin: 2px;
-border:solid #00ff41 1px;
-border-radius: 10px;
-}
-
-#divi {
-background-color: black;
-padding: 10px;
-margin: 2px;
-border:solid #00ff41 1px;
-border-radius: 10px;
-}
-
-#divv {
-background-color: black;
-padding: 10px;
-margin: 2px;
-border:solid #00ff41 1px;
-border-radius: 10px;
+box-shadow: 0 0 15px #00ff41;
 }
 
 a[target="_blank"]:visited {
@@ -75,4 +52,20 @@ width: 200px;
 
 .anual {
 width: 150px;
+}
+
+#divhc:hover {
+transform: translate(5px, 5px);
+}
+
+#divl:hover {
+transform: translate(5px, 5px);
+}
+
+#divi:hover {
+transform: translate(5px, 5px);
+}
+
+#divv:hover {
+transform: translate(5px, 5px);
 }
