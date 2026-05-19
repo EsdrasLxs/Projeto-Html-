@@ -69,3 +69,9 @@ transform: translate(5px, 5px);
 #divv:hover {
 transform: translate(5px, 5px);
 }
+
+.anoatual {
+display: flex;
+overflow-x: scroll;
+margin-bottom: 40px;
+}
